@@ -34,4 +34,5 @@ The [web page](#web-page-content) associated with this project serves as a compr
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/unmute-short-film.git
+   git clone https://github.com/cepdnaclk/EF528_ShortFilm.git
+
